@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+spacy
+yake
+pandas
+requests
